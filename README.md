@@ -50,7 +50,11 @@ See [https://juanjodiaz.github.io/json2csv](https://juanjodiaz.github.io/json2cs
 
 ## 🚀 Easy Start
 
-For CLI: json2csv -i "C:\Users\Fonck\Documents\UCI\Consultoria Blockchain\Info-certificaciones\Fundamentos-del-Enfoque-Ecosistemico.json" -o "C:\Users\Fonck\Documents\UCI\Consultoria Blockchain\Info-certificaciones\output.csv"
+For CLI, you can use the json2csv command followed by -i to specify the input JSON file and -o to specify the output CSV file. Here's how:
+
+```bash
+json2csv -i "path_to_your_input_file.json" -o "path_to_your_output_file.csv"
+```
 
 ## 📄 License
 
