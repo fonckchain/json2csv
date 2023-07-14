@@ -1,12 +1,13 @@
 <p align="center">
   <h1 align="center">json2csv</h1>
   <p align="center">Fast and highly configurable JSON to CSV converter</p>
+  <div align="center">
+    <a href="https://badge.fury.io/js/@json2csv%2Fplainjs"><img src="https://badge.fury.io/js/@json2csv%2Fplainjs.svg" alt="npm version"></a>
+    <a href="https://github.com/juanjoDiaz/json2csv/actions/workflows/on-push.yaml"><img src="https://github.com/juanjoDiaz/json2csv/actions/workflows/on-push.yaml/badge.svg" alt="Node.js CI"></a>
+    <a href="https://coveralls.io/github/juanjoDiaz/json2csv?branch=main"><img src="https://coveralls.io/repos/github/juanjoDiaz/json2csv/badge.svg?branch=main" alt="Coverage Status"></a>
+    <a href="https://raw.githubusercontent.com/juanjoDiaz/json2csv/main/LICENSE.md"><img src="https://img.shields.io/npm/l/serverless-plugin-warmup.svg" alt="license"></a>
+  </div>
 </p>
-
-[![npm version](https://badge.fury.io/js/@json2csv%2Fplainjs.svg)](https://badge.fury.io/js/@json2csv%2Fplainjs)
-[![Node.js CI](https://github.com/juanjoDiaz/json2csv/actions/workflows/on-push.yaml/badge.svg)](https://github.com/juanjoDiaz/json2csv/actions/workflows/on-push.yaml)
-[![Coverage Status](https://coveralls.io/repos/github/juanjoDiaz/json2csv/badge.svg?branch=main)](https://coveralls.io/github/juanjoDiaz/json2csv?branch=main)
-[![license](https://img.shields.io/npm/l/serverless-plugin-warmup.svg)](https://raw.githubusercontent.com/juanjoDiaz/json2csv/main/LICENSE.md)
 
 ## 🛠️ Features
 
